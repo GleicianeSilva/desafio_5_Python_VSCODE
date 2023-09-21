@@ -1,7 +1,11 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
-
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+<div align="center">
+<h3><img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="css3" width="45"> Desafio 5 (Python e o Visual Studio Code) do Bootcamp Back-End Python e Django - WoMakersCode ®
+ 
+<img align="right" width="150px" style="margin-top:-10px" src="https://user-images.githubusercontent.com/71572039/216510822-39114072-9905-4308-b0ee-3a4bddc8b76f.png">
+</div>
+</br>
+<div align="justify">
+ 
+- 👷🏻‍♀Desafio 5 (Python e o Visual Studio Code), proposto pelo Bootcamp Back-End Python e Django - WoMakersCode ® através de exercícios feitos no Codespaces Jupyter e programado Python. Foi utilizado a biblioteca Pandas para coleta dados por meio de DataFrames.
+  
+</div>
